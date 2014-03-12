@@ -1,6 +1,11 @@
 import winsound
-winsound.PlaySound("SystemAsterisk", winsound.SND_ALIAS)
-winsound.PlaySound("SystemExclamation", winsound.SND_ALIAS)
-winsound.PlaySound("SystemExit", winsound.SND_ALIAS)
-winsound.PlaySound("SystemHand", winsound.SND_ALIAS)
-winsound.PlaySound("SystemQuestion", winsound.SND_ALIAS)
+
+while(True):
+    winsound.Beep(1000, 300)
+    winsound.Beep(5000, 300)
+    winsound.Beep(3000, 300)
+    winsound.Beep(5000, 300)
+    winsound.Beep(4000, 300)
+
+
+
