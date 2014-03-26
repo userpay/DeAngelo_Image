@@ -1,6 +1,6 @@
 import Image, winsound, random  #WARNING Windows OS only
 
-im = Image.open("colorful_flower_frame-33px.jpg") #opens image
+im = Image.open("50236_173144168270_6834_q.jpg") #opens image
 pix = im.load() #loads image in
 picsize = im.size #Get the width and hight of the image for iterating over
 print picsize #outputs picture size, mostly for debug purposes

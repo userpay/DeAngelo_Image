@@ -1,0 +1,1 @@
+Reads in pixel values. Uses PIL library and must be on a Windows OS.
